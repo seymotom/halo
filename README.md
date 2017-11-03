@@ -4,7 +4,7 @@ Hello Tom. I am not sure i  get this
 
 
 
-func someFuction() {
-    // added code
+func largestElement(arr: [Int]) -> Int? {
+    return arr.max
 }
 
